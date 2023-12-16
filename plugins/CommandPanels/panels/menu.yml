@@ -1,0 +1,156 @@
+panels:
+  panel-1:
+    perm: default
+    rows: 3
+    commands:
+    - menu
+    title: '&c&lModalidades:'
+    open-with-item:
+      material: WRITTEN_BOOK
+      name: '&c&lModalidades'
+      lore:
+      - Click para abrir
+      stationary: 8
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '0':
+        material: NAME_TAG
+        stack: 1
+        name: Cambiar skin
+        lore:
+        - '&a/skin url <SkinUrl> SLIM/CLASSIC'
+      '1':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '2':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '3':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '4':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '5':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '6':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '7':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '8':
+        material: ENDER_EYE
+        stack: 1
+        name: Discord
+        lore:
+        - '&bhttps://discord.gg/jbeCEshTur'
+        commands:
+        - op= tellraw @p {"text":"Click aqui para abrir al discord","italic":true,"underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://discord.gg/jbeCEshTur"}}
+      '9':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '10':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '11':
+        material: NETHERITE_PICKAXE
+        stack: 1
+        name: '&6&lSupervivencia'
+        lore:
+        - '&aSobrevival anarquista'
+        - '&fclaims, teams, roleplay, pvp, pve...'
+        - '&3versión <1.20.2>'
+        commands:
+        - force-server= survival
+      '12':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '13':
+        material: TURTLE_EGG
+        stack: 1
+        name: '&6&lMods'
+        lore:
+        - '&fMods en la web'
+        - '&fEntrar con la ip:'
+        - '&fminecraft.ignisus.org:25569'
+        - '&3versión 1.18.2 Forge'
+        commands:
+        - force-server= mods
+      '14':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '15':
+        material: GRASS_BLOCK
+        stack: 1
+        name: '&6&lCreativo'
+        lore:
+        - '&aChill :3'
+        - '&fcreative mode, protect claims...'
+        - '&3versión <1.20.2>'
+        commands:
+        - force-server= creative
+      '16':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '17':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '18':
+        material: CLOCK
+        stack: 1
+        name: Lobby
+        lore:
+        - '&c&lPOWERED BY IGNISUS'
+        commands:
+        - op= tp 8 7 8
+      '19':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '20':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '21':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '22':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '23':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '24':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '25':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '26':
+        material: FILLED_MAP
+        stack: 1
+        name: Web
+        lore:
+        - '&bhttps://ignisus.org/'
+        commands:
+        - op= tellraw @p {"text":"Click aqui para abrir la web","italic":true,"underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://ignisus.org/ignisusland/mapa"}}

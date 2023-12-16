@@ -1,0 +1,450 @@
+[00:29:12] [Server thread/INFO]: /213.136.71.218:49238 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[01:05:46] [Server thread/INFO]: /213.136.71.218:33892 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[01:42:21] [Server thread/INFO]: /213.136.71.218:46810 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[02:19:01] [Server thread/INFO]: /213.136.71.218:59708 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[02:55:41] [Server thread/INFO]: /213.136.71.218:44412 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[03:32:20] [Server thread/INFO]: /213.136.71.218:57358 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[04:09:03] [Server thread/INFO]: /213.136.71.218:42096 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[04:45:45] [Server thread/INFO]: /213.136.71.218:55048 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[05:22:27] [Server thread/INFO]: /213.136.71.218:39744 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[05:59:07] [Server thread/INFO]: /213.136.71.218:52670 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[06:35:52] [Server thread/INFO]: /213.136.71.218:37364 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[07:12:43] [Server thread/INFO]: /213.136.71.218:50324 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[07:49:33] [Server thread/INFO]: /213.136.71.218:35066 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[08:26:23] [Server thread/INFO]: /213.136.71.218:48028 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[08:49:49] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.0.0 (Running 5.0.0-SNAPSHOT-642). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[09:03:14] [Server thread/INFO]: /213.136.71.218:60936 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[09:40:04] [Server thread/INFO]: /213.136.71.218:45630 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[10:16:59] [Server thread/INFO]: /213.136.71.218:58568 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[10:53:49] [Server thread/INFO]: /213.136.71.218:43218 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[11:30:35] [Server thread/INFO]: /213.136.71.218:56166 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[12:07:20] [Server thread/INFO]: /213.136.71.218:40882 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[12:44:04] [Server thread/INFO]: /213.136.71.218:53824 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[13:20:53] [Server thread/INFO]: /213.136.71.218:38514 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[13:57:37] [Server thread/INFO]: /213.136.71.218:51378 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[14:11:37] [User Authenticator #41/INFO]: UUID of player WORLDcodGAMER is 5ba3e36e-167e-4d4c-b455-4e9ee710bf87
+[14:11:37] [Server thread/INFO]: WORLDcodGAMER joined the game
+[14:11:37] [Server thread/INFO]: WORLDcodGAMER[/185.31.106.37:50996] logged in with entity id 99 at ([lobby]22.79192361816145, 6.0, 6.779840274881966)
+[14:11:39] [Server thread/INFO]: WORLDcodGAMER lost connection: Disconnected
+[14:11:39] [Server thread/INFO]: WORLDcodGAMER left the game
+[14:32:35] [User Authenticator #42/INFO]: UUID of player WORLDcodGAMER is 5ba3e36e-167e-4d4c-b455-4e9ee710bf87
+[14:32:35] [Server thread/INFO]: WORLDcodGAMER joined the game
+[14:32:35] [Server thread/INFO]: WORLDcodGAMER[/185.31.106.37:43630] logged in with entity id 100 at ([lobby]22.79192361816145, 6.0, 6.779840274881966)
+[14:33:42] [Server thread/INFO]: WORLDcodGAMER lost connection: Disconnected
+[14:33:42] [Server thread/INFO]: WORLDcodGAMER left the game
+[14:34:24] [Server thread/INFO]: /213.136.71.218:36092 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[15:11:10] [Server thread/INFO]: /213.136.71.218:49062 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[15:48:02] [Server thread/INFO]: /213.136.71.218:33748 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[16:24:53] [Server thread/INFO]: /213.136.71.218:46668 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[17:01:43] [Server thread/INFO]: /213.136.71.218:59624 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[17:38:36] [Server thread/INFO]: /213.136.71.218:44306 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[18:15:29] [Server thread/INFO]: /213.136.71.218:57260 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[18:52:23] [Server thread/INFO]: /213.136.71.218:41972 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[19:29:17] [Server thread/INFO]: /213.136.71.218:54940 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[20:06:06] [Server thread/INFO]: /213.136.71.218:39664 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[20:44:41] [Server thread/INFO]: /213.136.71.218:52604 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[20:49:50] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.0.0 (Running 5.0.0-SNAPSHOT-642). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[21:23:01] [Server thread/INFO]: /213.136.71.218:37314 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[21:45:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:50:58] [Server thread/WARN]: java.io.IOException: No space left on device
+[21:50:58] [Server thread/WARN]: 	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+[21:50:58] [Server thread/WARN]: 	at java.base/java.io.File.createTempFile(File.java:2129)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.save(YamlStorage.java:104)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.StoredShops.saveToDisk(StoredShops.java:59)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.storeNPCs(Citizens.java:602)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens$CitizensSaveTask.run(Citizens.java:642)
+[21:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101)
+[21:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[21:50:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[21:50:58] [Server thread/WARN]: java.io.IOException: No space left on device
+[21:50:58] [Server thread/WARN]: 	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+[21:50:58] [Server thread/WARN]: 	at java.base/java.io.File.createTempFile(File.java:2129)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.save(YamlStorage.java:104)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.npc.SimpleNPCDataStore.saveToDiskImmediate(SimpleNPCDataStore.java:77)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.storeNPCs(Citizens.java:603)
+[21:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens$CitizensSaveTask.run(Citizens.java:642)
+[21:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101)
+[21:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
+[21:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[21:50:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[21:50:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:55:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:59:48] [Server thread/INFO]: /213.136.71.218:50246 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[22:00:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:05:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:10:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:15:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:20:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:25:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:30:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:35:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:36:40] [Server thread/INFO]: /213.136.71.218:34930 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[22:40:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:45:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:50:58] [Server thread/WARN]: java.io.IOException: No space left on device
+[22:50:58] [Server thread/WARN]: 	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+[22:50:58] [Server thread/WARN]: 	at java.base/java.io.File.createTempFile(File.java:2129)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.save(YamlStorage.java:104)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.StoredShops.saveToDisk(StoredShops.java:59)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.storeNPCs(Citizens.java:602)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens$CitizensSaveTask.run(Citizens.java:642)
+[22:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101)
+[22:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[22:50:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[22:50:58] [Server thread/WARN]: java.io.IOException: No space left on device
+[22:50:58] [Server thread/WARN]: 	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+[22:50:58] [Server thread/WARN]: 	at java.base/java.io.File.createTempFile(File.java:2129)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.save(YamlStorage.java:104)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.npc.SimpleNPCDataStore.saveToDiskImmediate(SimpleNPCDataStore.java:77)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.storeNPCs(Citizens.java:603)
+[22:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens$CitizensSaveTask.run(Citizens.java:642)
+[22:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101)
+[22:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
+[22:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[22:50:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[22:50:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:55:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:00:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:05:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:10:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:13:35] [Server thread/INFO]: /213.136.71.218:47838 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[23:15:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:20:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:25:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:30:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:35:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:40:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:45:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:50:39] [Server thread/INFO]: /213.136.71.218:60766 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Packet Type: null, Type: UUID, Index: 3, Data: [{String: cuute}, {ProfileKey: null}], Source 0: com.viaversion.viaversion.protocols.protocol1_19_1to1_19.Protocol1_19_1To1_19$7 (Anonymous), Packet ID: 0
+[23:50:58] [Server thread/WARN]: java.io.IOException: No space left on device
+[23:50:58] [Server thread/WARN]: 	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+[23:50:58] [Server thread/WARN]: 	at java.base/java.io.File.createTempFile(File.java:2129)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.save(YamlStorage.java:104)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.StoredShops.saveToDisk(StoredShops.java:59)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.storeNPCs(Citizens.java:602)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens$CitizensSaveTask.run(Citizens.java:642)
+[23:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101)
+[23:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[23:50:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[23:50:58] [Server thread/WARN]: java.io.IOException: No space left on device
+[23:50:58] [Server thread/WARN]: 	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+[23:50:58] [Server thread/WARN]: 	at java.base/java.io.File.createTempFile(File.java:2129)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.save(YamlStorage.java:104)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.api.npc.SimpleNPCDataStore.saveToDiskImmediate(SimpleNPCDataStore.java:77)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.storeNPCs(Citizens.java:603)
+[23:50:58] [Server thread/WARN]: 	at net.citizensnpcs.Citizens$CitizensSaveTask.run(Citizens.java:642)
+[23:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101)
+[23:50:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
+[23:50:58] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[23:50:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[23:50:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:55:58] [Server thread/ERROR]: Failed to save level ./lobby
+java.io.IOException: No space left on device
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:328) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.saveIncrementally(WorldServer.java:1096) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1378) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]

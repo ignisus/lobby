@@ -1,0 +1,48 @@
+[13:03:04] [User Authenticator #1/INFO]: UUID of player eldiosx is f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+[13:03:04] [Server thread/INFO]: eldiosx joined the game
+[13:03:04] [Server thread/INFO]: eldiosx[/79.117.241.18:36172] logged in with entity id 49 at ([lobby]8.332231001210998, 6.0, 2.0343972107380095)
+[13:04:01] [Server thread/INFO]: eldiosx lost connection: Disconnected
+[13:04:01] [Server thread/INFO]: eldiosx left the game
+[13:04:48] [User Authenticator #2/INFO]: UUID of player eldiosx is f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+[13:04:48] [Server thread/INFO]: eldiosx joined the game
+[13:04:48] [Server thread/INFO]: eldiosx[/79.117.241.18:37752] logged in with entity id 50 at ([lobby]8.332231001210998, 6.0, 2.0343972107380095)
+[13:04:58] [Server thread/INFO]: [eldiosx: Teleported eldiosx to 8.500000, 7.000000, 8.500000]
+[13:04:58] [Server thread/WARN]: eldiosx moved too quickly! -0.010041614678856448,1.0,13.100043032198204
+[13:05:01] [Server thread/INFO]: eldiosx lost connection: Disconnected
+[13:05:01] [Server thread/INFO]: eldiosx left the game
+[13:09:11] [User Authenticator #3/INFO]: UUID of player eldiosx is f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+[13:09:11] [Server thread/INFO]: eldiosx joined the game
+[13:09:11] [Server thread/INFO]: eldiosx[/79.117.241.18:55104] logged in with entity id 51 at ([lobby]8.5, 7.0, 8.5)
+[13:09:24] [Server thread/INFO]: eldiosx lost connection: Disconnected
+[13:09:24] [Server thread/INFO]: eldiosx left the game
+[13:09:33] [User Authenticator #3/INFO]: UUID of player eldiosx is f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+[13:09:33] [Server thread/INFO]: eldiosx joined the game
+[13:09:33] [Server thread/INFO]: eldiosx[/79.117.241.18:51390] logged in with entity id 52 at ([lobby]8.746816741993351, 6.0, 4.1434935802752015)
+[13:10:58] [Server thread/INFO]: eldiosx issued server command: /gamemode creative
+[13:10:58] [Server thread/INFO]: [eldiosx: Set own game mode to Creative Mode]
+[13:11:10] [Server thread/INFO]: eldiosx lost connection: Disconnected
+[13:11:10] [Server thread/INFO]: eldiosx left the game
+[17:26:13] [Server thread/INFO]: Stopping server
+[17:26:13] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.32-SNAPSHOT (build 3168)
+[17:26:13] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[17:26:13] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[17:26:13] [Server thread/INFO]: [TabList] Disabling TabList v5.6.3
+[17:26:13] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[17:26:13] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.19.1.5
+[17:26:13] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[17:26:13] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.17+6544-56d0383
+[17:26:13] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:26:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.3
+[17:26:13] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.2-SNAPSHOT-b870
+[17:26:13] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.1-SNAPSHOT-669
+[17:26:13] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:26:13] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.2
+[17:26:13] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[17:26:13] [Server thread/INFO]: Saving players
+[17:26:14] [Server thread/INFO]: Saving worlds
+[17:26:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:overworld
+[17:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[17:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:26:14] [Server thread/INFO]: Flushing Chunk IO
+[17:26:14] [Server thread/INFO]: Closing Thread Pool
+[17:26:14] [Server thread/INFO]: Closing Server

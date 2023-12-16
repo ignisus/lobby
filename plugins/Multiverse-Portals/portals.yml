@@ -1,0 +1,20 @@
+portals:
+  respawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: eldiosx
+    location: -38.0,0.0,-38.0:54.0,1.0,54.0
+    world: lobby
+    destination: p:Spawn
+  Spawn:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: eldiosx
+    location: 7.0,7.0,7.0:9.0,7.0,9.0
+    world: lobby
