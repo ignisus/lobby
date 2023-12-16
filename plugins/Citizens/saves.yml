@@ -30,7 +30,7 @@ npc:
         pitch: '-0.5992'
       scoreboardtrait: {}
       inventory: {}
-    traitnames: type,equipment,owner,shop,spawned,sneak,scoreboardtrait,inventory,mounttrait,location,skintrait
+    traitnames: type,location,owner,scoreboardtrait,shop,spawned,sneak,skintrait,mounttrait,equipment,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -100,7 +100,7 @@ npc:
             delay: 0
             cost: '-1.0'
             experienceCost: -1
-    traitnames: lookclose,type,equipment,rotationtrait,owner,spawned,scoreboardtrait,commandtrait,sneak,inventory,mounttrait,location,skintrait
+    traitnames: location,lookclose,scoreboardtrait,sneak,skintrait,equipment,rotationtrait,inventory,type,owner,spawned,mounttrait,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -170,7 +170,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: lookclose,type,equipment,rotationtrait,owner,spawned,scoreboardtrait,commandtrait,sneak,inventory,mounttrait,location,skintrait
+    traitnames: location,lookclose,scoreboardtrait,sneak,skintrait,rotationtrait,inventory,equipment,type,owner,spawned,mounttrait,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -243,7 +243,7 @@ npc:
       hologramtrait:
         direction: BOTTOM_UP
         lineHeight: -1.0
-    traitnames: lookclose,type,equipment,owner,rotationtrait,spawned,scoreboardtrait,hologramtrait,commandtrait,sneak,inventory,mounttrait,location,skintrait
+    traitnames: location,lookclose,scoreboardtrait,hologramtrait,sneak,skintrait,equipment,rotationtrait,inventory,type,owner,spawned,mounttrait,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -290,7 +290,7 @@ npc:
         yaw: '65.5529'
         pitch: '0.0'
       type: PLAYER
-    traitnames: lookclose,type,rotationtrait,owner,spawned,scoreboardtrait,inventory,mounttrait,location,skintrait
+    traitnames: type,location,owner,lookclose,scoreboardtrait,spawned,skintrait,mounttrait,rotationtrait,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -338,7 +338,7 @@ npc:
         textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY4NDQwNzUyNDIyNCwKICAicHJvZmlsZUlkIiA6ICI4NDg3YmFmZmNhNzM0NzcwYTI0NjE0NDZhNjZhNzczNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaXhlbG1vbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjdkNzAzZGQxNjc3YmQzZDE2YWFlZTY2YzhmOWE2NDAzY2E3MzMxYzA3NDhjN2MxYzhjODBjOTUwMDI5YjA2IgogICAgfQogIH0KfQ==
         updateSkins: false
       type: PLAYER
-    traitnames: lookclose,type,rotationtrait,owner,spawned,scoreboardtrait,inventory,mounttrait,location,skintrait
+    traitnames: type,location,owner,lookclose,scoreboardtrait,spawned,skintrait,mounttrait,rotationtrait,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
