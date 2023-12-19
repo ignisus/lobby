@@ -30,7 +30,7 @@ npc:
         pitch: '-0.5992'
       scoreboardtrait: {}
       inventory: {}
-    traitnames: type,location,owner,scoreboardtrait,shop,spawned,sneak,skintrait,mounttrait,equipment,inventory
+    traitnames: mounttrait,sneak,spawned,location,inventory,skintrait,shop,equipment,scoreboardtrait,type,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -73,13 +73,13 @@ npc:
       sneak:
         sneaking: false
       location:
-        bodyYaw: 64.56555
+        bodyYaw: 43.86313
         world: lobby
         x: '21.453'
         y: '7.0'
         z: '5.5591'
-        yaw: '64.5656'
-        pitch: '18.9022'
+        yaw: '43.8631'
+        pitch: '10.9565'
       scoreboardtrait: {}
       inventory: {}
       commandtrait:
@@ -100,7 +100,7 @@ npc:
             delay: 0
             cost: '-1.0'
             experienceCost: -1
-    traitnames: location,lookclose,scoreboardtrait,sneak,skintrait,equipment,rotationtrait,inventory,type,owner,spawned,mounttrait,commandtrait
+    traitnames: sneak,rotationtrait,inventory,lookclose,type,owner,mounttrait,spawned,location,skintrait,equipment,commandtrait,scoreboardtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -117,13 +117,13 @@ npc:
       sneak:
         sneaking: false
       location:
-        bodyYaw: 139.61835
+        bodyYaw: 141.73944
         world: lobby
         x: '21.5249'
         y: '7.0'
         z: '13.4356'
-        yaw: '135.7237'
-        pitch: '-8.499'
+        yaw: '150.4254'
+        pitch: '12.2421'
       skintrait:
         fetchDefaultSkin: true
         signature: rcNC/sdgRMBS28jzYsxcxy2y/MtyjFpxihtOBqWT1qN2HwKwNF5OVYIPljhDMNzrTkML7SMtgz6M0C6Z1z3sOIBWTRLkejeQxjws3UuPk2JbfRxY2BK+diQQ4Ac5F7R6PimCK7Yi+ZH9/caPkUCR6WIxexsHmZX8QHmAfcZ+TI/c5HK9ADWfmgCQuSCZC3wFtsoCG3MjvY0vDKqqlo/e0BIfjjpBQ7QMfaGvHEnlog7EYDdKbjSNB+ZNBcTf6WYeABMNe5YlFphwx0bGwFHkutTYjOnZK1r+W2lUBEGOgJY6GejpPApJdt/Ye01yH5feffoPo+CCTWmbM4HJkC84LjLnZ3quWt03WCRmwEG0GshahgD3Y8X4OYfRHHrFu5nnQp3QktIkPVQ4wIma20FFu5344j3MhVTy0Mp9eAMtECWB9HEjBFQIKrR5MIHq06XuIPjrpfW00hd3k52iNFL71mJzWiNIU3W3KwvBx4G1zLvlu+P+VIjj/InCbplLFY7Q/j/tNx3GHpLGl8AxMOL96hOxJYNIKjG3TX946kCA+9AdJTRnVDEIukg5WdYnPK6JWLIv4kLLrgbEwO+4sEqcp459GOvqkeuOKOHiAtFMJmk1Mdpazeeq4Av08ILO60TxHC+J8ccds9H5Wt32EB3AL3bHQBSa0iq02PRp9hejqAM=
@@ -170,7 +170,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: location,lookclose,scoreboardtrait,sneak,skintrait,rotationtrait,inventory,equipment,type,owner,spawned,mounttrait,commandtrait
+    traitnames: sneak,rotationtrait,inventory,lookclose,type,owner,mounttrait,spawned,location,skintrait,equipment,scoreboardtrait,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -243,7 +243,7 @@ npc:
       hologramtrait:
         direction: BOTTOM_UP
         lineHeight: -1.0
-    traitnames: location,lookclose,scoreboardtrait,hologramtrait,sneak,skintrait,equipment,rotationtrait,inventory,type,owner,spawned,mounttrait,commandtrait
+    traitnames: sneak,rotationtrait,inventory,lookclose,type,owner,mounttrait,spawned,location,skintrait,equipment,scoreboardtrait,commandtrait,hologramtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -290,7 +290,7 @@ npc:
         yaw: '65.5529'
         pitch: '0.0'
       type: PLAYER
-    traitnames: type,location,owner,lookclose,scoreboardtrait,spawned,skintrait,mounttrait,rotationtrait,inventory
+    traitnames: mounttrait,spawned,location,rotationtrait,inventory,skintrait,lookclose,scoreboardtrait,type,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -323,13 +323,13 @@ npc:
           '0': 0.0
           '1': 360.0
       location:
-        bodyYaw: -129.68887
+        bodyYaw: 130.3111
         world: lobby
         x: '21.6409'
         y: '7.0'
         z: '11.4015'
-        yaw: '-129.6889'
-        pitch: '11.303'
+        yaw: '114.533'
+        pitch: '10.022'
       spawned: true
       skintrait:
         fetchDefaultSkin: true
@@ -338,7 +338,7 @@ npc:
         textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY4NDQwNzUyNDIyNCwKICAicHJvZmlsZUlkIiA6ICI4NDg3YmFmZmNhNzM0NzcwYTI0NjE0NDZhNjZhNzczNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaXhlbG1vbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjdkNzAzZGQxNjc3YmQzZDE2YWFlZTY2YzhmOWE2NDAzY2E3MzMxYzA3NDhjN2MxYzhjODBjOTUwMDI5YjA2IgogICAgfQogIH0KfQ==
         updateSkins: false
       type: PLAYER
-    traitnames: type,location,owner,lookclose,scoreboardtrait,spawned,skintrait,mounttrait,rotationtrait,inventory
+    traitnames: mounttrait,spawned,location,rotationtrait,inventory,skintrait,lookclose,scoreboardtrait,type,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
