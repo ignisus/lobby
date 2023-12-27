@@ -4,3 +4,4 @@ logs/
 plugins/update/
 usercache.json
 ops.json
+.console_history
