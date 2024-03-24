@@ -66,42 +66,36 @@ panels:
       '11':
         material: NETHERITE_PICKAXE
         stack: 1
-        name: '&6&lSupervivencia'
+        name: '&6&lVanilla'
         lore:
-        - '&aSobrevival anarquista'
+        - '&aSurvival and builds'
         - '&fclaims, teams, roleplay, pvp, pve...'
-        - '&3versión <1.20.2>'
+        - '&3versión <1.20.4>'
         commands:
-        - force-server= survival
+        - force-server= vanilla
       '12':
         material: YELLOW_STAINED_GLASS_PANE
         stack: 1
         name: ' '
       '13':
-        material: TURTLE_EGG
+        material: YELLOW_STAINED_GLASS_PANE
         stack: 1
-        name: '&6&lMods'
-        lore:
-        - '&fMods en la web'
-        - '&fEntrar con la ip:'
-        - '&fminecraft.ignisus.org:25569'
-        - '&3versión 1.18.2 Forge'
-        commands:
-        - force-server= mods
+        name: ' '
       '14':
         material: YELLOW_STAINED_GLASS_PANE
         stack: 1
         name: ' '
       '15':
-        material: GRASS_BLOCK
+        material: TURTLE_EGG
         stack: 1
-        name: '&6&lCreativo'
+        name: '&6&lMods'
         lore:
-        - '&aChill :3'
-        - '&fcreative mode, protect claims...'
-        - '&3versión <1.20.2>'
+        - '&fDownload mods on web'
+        - '&fEntrar con la ip:'
+        - '&fminecraft.ignisus.org:25569'
+        - '&3versión 1.20.1 Fabric'
         commands:
-        - force-server= creative
+        - force-server= mods
       '16':
         material: YELLOW_STAINED_GLASS_PANE
         stack: 1
@@ -153,4 +147,4 @@ panels:
         lore:
         - '&bhttps://ignisus.org/'
         commands:
-        - op= tellraw @p {"text":"Click aqui para abrir la web","italic":true,"underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://ignisus.org/ignisusland/mapa"}}
+        - op= tellraw @p {"text":"Click aqui para abrir la web","italic":true,"underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://map.ignisus.org/"}}

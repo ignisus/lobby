@@ -1,54 +1,27 @@
-[06:11:39] [Craft Scheduler Thread - 121 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[07:14:39] [Craft Scheduler Thread - 122 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[08:17:39] [Craft Scheduler Thread - 123 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[09:20:39] [Craft Scheduler Thread - 124 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[10:23:39] [Craft Scheduler Thread - 126 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[11:26:39] [Craft Scheduler Thread - 127 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[12:29:39] [Craft Scheduler Thread - 128 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[13:32:39] [Craft Scheduler Thread - 129 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[14:35:39] [Craft Scheduler Thread - 130 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[15:38:39] [Craft Scheduler Thread - 131 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[16:41:39] [Craft Scheduler Thread - 133 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[17:44:39] [Craft Scheduler Thread - 134 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[18:47:39] [Craft Scheduler Thread - 135 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[19:50:39] [Craft Scheduler Thread - 136 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[20:53:39] [Craft Scheduler Thread - 137 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
- If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
-[20:53:49] [Server thread/INFO]: Stopping server
-[20:53:49] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.32-SNAPSHOT (build 3168)
-[20:53:49] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
-[20:53:49] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[20:53:49] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
-[20:53:49] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.19.1.5
-[20:53:49] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
-[20:53:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.17+6544-56d0383
-[20:53:49] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[20:53:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.4
-[20:53:49] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.2-SNAPSHOT-b870
-[20:53:49] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.1-SNAPSHOT-669
-[20:53:49] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.1
-[20:53:49] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[20:53:49] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.2
-[20:53:49] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[20:53:49] [Server thread/INFO]: Saving players
-[20:53:49] [Server thread/INFO]: Saving worlds
-[20:53:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:overworld
-[20:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
-[20:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:53:49] [Server thread/INFO]: Flushing Chunk IO
-[20:53:49] [Server thread/INFO]: Closing Thread Pool
-[20:53:49] [Server thread/INFO]: Closing Server
+[15:51:56] [Server thread/INFO]: Stopping server
+[15:51:56] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.20.0.2
+[15:51:56] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[15:51:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.7
+[15:51:56] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[15:51:56] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.32-SNAPSHOT (build 3168)
+[15:51:56] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.2-SNAPSHOT-b870
+[15:51:56] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[15:51:56] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:51:56] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.1-SNAPSHOT-669
+[15:51:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[15:51:56] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:51:56] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[15:51:56] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[15:51:56] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:51:56] [Server thread/INFO]: Saving players
+[15:51:56] [Server thread/INFO]: Saving worlds
+[15:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:overworld
+[15:51:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby'
+[15:51:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby'
+[15:51:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'lobby'
+[15:51:56] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 1 entity chunks, 0 poi chunks in world 'lobby' in 0.01s
+[15:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[15:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:51:56] [Server thread/INFO]: Flushing Chunk IO
+[15:51:56] [Server thread/INFO]: Closing Thread Pool
+[15:51:56] [Server thread/INFO]: Closing Server
